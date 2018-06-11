@@ -1,3 +1,3 @@
 # TODO
 
-* First draft
+* Model quality and metrics revisions

@@ -1,1 +1,3 @@
 # Development Guidelines
+
+This document intends to establish guidelines which build a transparent, open mechanism for deciding how to evolve the Open Cognitive Skills Specification. The CAMEL Technical Steering Committee (TSC) will initially follow these processes when merging changes from external contributors or from the TSC itself. This guideline document will be adjusted as practicality dictates.

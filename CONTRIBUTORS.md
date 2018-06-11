@@ -1,3 +1,3 @@
-* Matt Sanchez [@mattsanchez](https://github.com/mattsanchez)
-* Christine Draper
-* Sanjay Kottaram
+* Matt Sanchez [@mattsanchez](https://github.com/mattsanchez), CognitiveScale
+* Christine Draper, CognitiveScale
+* Sanjay Kottaram, CognitiveScale
