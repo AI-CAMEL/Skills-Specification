@@ -1,10 +1,10 @@
 # The Open Cognitive Skills Specification
 
-TThe Open Cognitive Skills (OCS) specification defines a standard, language-agnostic, and platform-agnostic language that describes how to use containerized, serverless applications to composes and executes code, machine learning models, and data.  Skills enables data scientists and developers to easily compose, pack, ship, run and scale any machine learning model and code across any design and deployment environment.
+The Open Cognitive Skills (OCS) specification defines a standard, language-agnostic, and platform-agnostic language that describes how to use containerized, serverless applications to composes and executes code, machine learning models, and data.  Skills enables data scientists and developers to easily compose, pack, ship, run and scale any machine learning model and code across any design and deployment environment.
 
 ## Current Version
 
-The 1.0.0 DRAFT specification of Open Cognitive Skills is [here](https://github.com/AI-CAMEL/Skills-Specification/blob/master/versions/1.0.0.md).
+The 1.0.0 specification of Open Cognitive Skills is [here](https://github.com/AI-CAMEL/Skills-Specification/blob/master/versions/1.0.0.md).
 
 ## Releationship to Cognitive Agent Modeling and Execution Language (CAMEL)
 
